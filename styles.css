@@ -77,7 +77,6 @@ main {
   margin: 0 auto;
 }
 
-
 .btnPegar, .btnClear{
   background-color:#0A3871;
   color: white;
@@ -87,7 +86,6 @@ main {
   border-radius: 18px;
   margin-top: 5px;
 }
-
 
 .btn-Group {
   display: flex;
@@ -172,7 +170,6 @@ main {
   font-size: 22px;
   color: #495749;
 }
-
 
 .btnCopiar {
   background-color: white;
@@ -286,9 +283,7 @@ footer img {
     padding: 0 10px;
     height: 250px;
   }
-  /* span {
-    font-size: 8px;
-  } */
+  
   .btn-Group {
     flex-direction: column;
   }
